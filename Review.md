@@ -1,6 +1,6 @@
 # Questions - Self Study
 
-You can exercise your Google-Fu for this and any other _Sprint Challenge_ in the future.
+You can exercise your Google-Fu for this and any other _Sprint Challenge_ in the future..
 
 1.  Explain the difference between `RDBMS` and `SQL`.
 1.  Why do tables need a `primary key`?
